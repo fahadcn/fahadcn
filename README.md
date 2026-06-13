@@ -28,7 +28,17 @@
   <img src="https://komarev.com/ghpvc/?username=fahadcn&color=00b4d8&style=flat-square&label=Profile+Views"/>
 </p>
 
+<p align="center">
+  <a href="#about-me"><img src="https://img.shields.io/badge/About_Me-0077b6?style=flat-square&logoColor=white"/></a>
+  &nbsp;
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-0096c7?style=flat-square&logoColor=white"/></a>
+  &nbsp;
+  <a href="#experience"><img src="https://img.shields.io/badge/Experience-00b4d8?style=flat-square&logoColor=white"/></a>
+</p>
+
 ---
+
+<a id="about-me"></a>
 
 ## 🙋 About Me
 
@@ -55,6 +65,8 @@
 - 🌐 Bengali · English · Hindi · Urdu · Chinese (basic)
 
 ---
+
+<a id="tech-stack"></a>
 
 ## 🛠️ Tech Stack
 
@@ -90,6 +102,8 @@
 </p>
 
 ---
+
+<a id="experience"></a>
 
 ## 💼 Experience
 
