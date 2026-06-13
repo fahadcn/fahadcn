@@ -80,8 +80,8 @@
 | Period | Role | Company |
 |---|---|---|
 | Sep 2024 – Present | 🔬 Mechanical Engineering Intern – R&D | 北京则藏海科技, Beijing |
-| Mar 2024 – May 2024 | 📐 Technical Design Intern | 东易日盛装饰, Beijing |
-| Jan 2020 – Feb 2022 | 📱 App Development Trainer & Project Lead | Spider IT Bangladesh |
+| Mar 2024 – May 2024 | 🏠 Junior Interior Design Assistant | 东易日盛装饰, Beijing |
+| Jan 2020 – Feb 2022 | 📱 Project Lead & Client Relations | Spider IT Bangladesh |
 
 ---
 
