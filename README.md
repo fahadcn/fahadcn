@@ -1,5 +1,21 @@
 <p align="center">
-  <img src="profile.png" width="130" style="border-radius:50%;border:3px solid #00b4d8;" alt="Fahad Hossen"/>
+  <img src="profile.png" width="140" style="border-radius:16px;border:3px solid #00b4d8;" alt="Fahad Hossen"/>
+</p>
+
+<h2 align="center">Md Fahad Hossen</h2>
+
+<p align="center">
+  <a href="mailto:fahad_hossen_cn@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/fahadcn">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/Skilledfahad">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
@@ -85,20 +101,5 @@
 
 ---
 
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:fahad_hossen_cn@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/fahadcn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/Skilledfahad">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=100&section=footer" width="100%"/>
