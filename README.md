@@ -45,9 +45,18 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🔧 Fabrication
+### 🔧 Fabrication & Workshop
 ![3D Printing](https://img.shields.io/badge/3D_Printing-FF6B35?style=for-the-badge&logo=printables&logoColor=white)
-![Welding](https://img.shields.io/badge/Welding_%26_Lathe-607D8B?style=for-the-badge&logoColor=white)
+![Welding](https://img.shields.io/badge/Welding-E53935?style=for-the-badge&logoColor=white)
+![Lathe](https://img.shields.io/badge/Lathe_Operation-546E7A?style=for-the-badge&logoColor=white)
+![Milling](https://img.shields.io/badge/Milling-455A64?style=for-the-badge&logoColor=white)
+![Drilling](https://img.shields.io/badge/Drilling-607D8B?style=for-the-badge&logoColor=white)
+![Sheet Metal](https://img.shields.io/badge/Sheet_Metal_Work-78909C?style=for-the-badge&logoColor=white)
+![CNC](https://img.shields.io/badge/CNC_Machining-1565C0?style=for-the-badge&logoColor=white)
+![Grinding](https://img.shields.io/badge/Grinding-6D4C41?style=for-the-badge&logoColor=white)
+![Casting](https://img.shields.io/badge/Casting_%26_Foundry-BF360C?style=for-the-badge&logoColor=white)
+![Fitting](https://img.shields.io/badge/Fitting_%26_Assembly-2E7D32?style=for-the-badge&logoColor=white)
+![Soldering](https://img.shields.io/badge/Soldering-F9A825?style=for-the-badge&logoColor=white)
 
 </p>
 
