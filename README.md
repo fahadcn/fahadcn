@@ -18,8 +18,23 @@
 
 ## 🙋 About Me
 
-- 🎓 **B.Eng. Mechanical Engineering** @ Beijing Institute of Graphic Communication — GPA 3.57/4.0
-- 🛡️ Currently studying **Safety Engineering** @ **China University of Mining and Technology**
+<table>
+  <tr>
+    <td><img src="cumt_round.png" width="48"/></td>
+    <td><strong>Safety Engineering</strong> <em>(Current)</em><br/>China University of Mining and Technology</td>
+  </tr>
+  <tr>
+    <td><img src="bigc_round.png" width="48"/></td>
+    <td><strong>B.Eng. Mechanical Engineering</strong><br/>Beijing Institute of Graphic Communication</td>
+  </tr>
+  <tr>
+    <td><img src="sipi_round.png" width="48"/></td>
+    <td><strong>Diploma in Engineering</strong><br/>Shyamoli Ideal Polytechnic Institute, Chittagong</td>
+  </tr>
+</table>
+
+<br/>
+
 - 🔬 **R&D Intern** @ 北京则藏海科技 — health & sports product design, hardware programming
 - 🤖 Interests: Robotics · Renewable Energy · CAD/CAE · Industrial Safety · Product Design
 - 🏆 **20+ awards** in technical skills & academics across Bangladesh and China
