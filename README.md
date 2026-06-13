@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:fahad_hossen_cn@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/fahadcn">
