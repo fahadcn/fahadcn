@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00b4d8&height=200&section=header&text=Md%20Fahad%20Hossen&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Mechanical%20Engineer%20%7C%20App%20Developer%20%7C%20R%26D%20Enthusiast&descSize=16&descAlignY=75" width="100%"/>
-
 <p align="center">
   <img src="profile.png" width="130" style="border-radius:50%;border:3px solid #00b4d8;" alt="Fahad Hossen"/>
 </p>
