@@ -37,7 +37,6 @@
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-F57C00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 
 ### 💻 Programming & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,25 +63,11 @@
 
 ---
 
-## 🏆 Highlight Projects
-
-| | Project | Stack | Result |
-|---|---|---|---|
-| 🔥 | **Miniature Melting Furnace** | Mechanical Design | 🥇 1st place, Skill Competition 2016 |
-| 🤖 | **Holonomic Robot (Mecanum Wheels)** | CAD + Robotics | Top marks in Industrial Robot Technology |
-| 📱 | **BLE OTA & WiFi App for ESP32** | Flutter + Arduino | Deployed in company R&D products |
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:fahad_hossen_cn@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:fahah.hossen.bf@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/fahadcn">
