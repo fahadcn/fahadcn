@@ -70,10 +70,6 @@
     <img src="https://img.shields.io/badge/Email-fahad__hossen__cn@outlook.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:fahah.hossen.bf@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-fahah.hossen.bf@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/fahadcn">
     <img src="https://img.shields.io/badge/GitHub-fahadcn-181717?style=flat&logo=github&logoColor=white"/>
   </a>
