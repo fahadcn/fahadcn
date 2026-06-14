@@ -32,20 +32,23 @@
 
 ## 🙋 About Me
 
-<table style="border-collapse:collapse;border:none;">
-  <tr>
-    <td style="border:none;padding:6px 8px;"><img src="cumt_round.png" width="48" alt="CUMT"/></td>
-    <td style="border:none;padding:6px 8px;"><strong>Safety Engineering</strong> <em>(Current)</em><br/>China University of Mining and Technology</td>
-  </tr>
-  <tr>
-    <td style="border:none;padding:6px 8px;"><img src="bigc_round.png" width="48" alt="BICG"/></td>
-    <td style="border:none;padding:6px 8px;"><strong>BSc Mechanical Engineering</strong><br/>Beijing Institute of Graphic Communication</td>
-  </tr>
-  <tr>
-    <td style="border:none;padding:6px 8px;"><img src="sipi_round.png" width="48" alt="SIPI"/></td>
-    <td style="border:none;padding:6px 8px;"><strong>Diploma in Engineering</strong><br/>Shyamoli Ideal Polytechnic Institute, Chittagong</td>
-  </tr>
-</table>
+<ul style="list-style:none;padding:0;margin:0;">
+  <li style="margin:8px 0;">
+    <img src="cumt_round.png" width="48" alt="CUMT" />
+    <strong>Safety Engineering</strong> <em>(Current)</em><br />
+    China University of Mining and Technology
+  </li>
+  <li style="margin:8px 0;">
+    <img src="bigc_round.png" width="48" alt="BICG" />
+    <strong>BSc Mechanical Engineering</strong><br />
+    Beijing Institute of Graphic Communication
+  </li>
+  <li style="margin:8px 0;">
+    <img src="sipi_round.png" width="48" alt="SIPI" />
+    <strong>Diploma in Engineering</strong><br />
+    Shyamoli Ideal Polytechnic Institute, Chittagong
+  </li>
+</ul>
 
 <br/>
 
