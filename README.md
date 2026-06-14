@@ -32,18 +32,18 @@
 
 ## 🙋 About Me
 
-<table>
+<table style="border-collapse:collapse;border:none;">
   <tr>
-    <td><img src="cumt_round.png" width="48"/></td>
-    <td><strong>Safety Engineering</strong> <em>(Current)</em><br/>China University of Mining and Technology</td>
+    <td style="border:none;padding:6px 8px;"><img src="cumt_round.png" width="48" alt="CUMT"/></td>
+    <td style="border:none;padding:6px 8px;"><strong>Safety Engineering</strong> <em>(Current)</em><br/>China University of Mining and Technology</td>
   </tr>
   <tr>
-    <td><img src="bigc_round.png" width="48"/></td>
-    <td><strong>BSc Mechanical Engineering</strong><br/>Beijing Institute of Graphic Communication</td>
+    <td style="border:none;padding:6px 8px;"><img src="bigc_round.png" width="48" alt="BICG"/></td>
+    <td style="border:none;padding:6px 8px;"><strong>BSc Mechanical Engineering</strong><br/>Beijing Institute of Graphic Communication</td>
   </tr>
   <tr>
-    <td><img src="sipi_round.png" width="48"/></td>
-    <td><strong>Diploma in Engineering</strong><br/>Shyamoli Ideal Polytechnic Institute, Chittagong</td>
+    <td style="border:none;padding:6px 8px;"><img src="sipi_round.png" width="48" alt="SIPI"/></td>
+    <td style="border:none;padding:6px 8px;"><strong>Diploma in Engineering</strong><br/>Shyamoli Ideal Polytechnic Institute, Chittagong</td>
   </tr>
 </table>
 
