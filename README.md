@@ -1,11 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1b2a,50:0077b6,100:00b4d8&height=180&section=header" width="100%"/>
 
-<p align="center">
-  <img src="profile.png" width="170" style="border-radius:20px;border:3px solid #00b4d8;" alt="Fahad Hossen"/>
-</p>
-
 <h1 align="center">Md Fahad Hossen</h1>
-<p align="center"><strong>Mechanical Engineer</strong> · App Developer · R&D Enthusiast</p>
+<p align="center"><strong>Mechanical Engineer</strong> · App Developer · R&amp;D Enthusiast</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00B4D8&center=true&vCenter=true&width=680&lines=Designing+Mechanical+Systems...;Building+Flutter+Apps...;Crafting+Safe+Products...;Exploring+Robotics+R&D..." alt="Typing SVG"/>
@@ -46,21 +42,23 @@
     <td><strong>Diploma in Engineering</strong><br/>Shyamoli Ideal Polytechnic Institute, Chittagong</td>
   </tr>
 </table>
-    <div style="display:flex;justify-content:center;margin:16px 0;">
-      <div style="background:linear-gradient(180deg,#071029 0%,#0d1117 100%);color:#c9d1d9;border-radius:12px;padding:18px;max-width:720px;box-shadow:0 8px 30px rgba(2,6,23,0.6);">
-        <div style="display:flex;align-items:center;gap:12px;margin-bottom:8px;">
-          <img src="profile.png" width="56" style="border-radius:10px;border:2px solid #00b4d8;" alt="avatar" />
-          <div>
-            <strong style="font-size:1.1rem">Md Fahad Hossen</strong><br />
-            <span style="font-size:0.9rem;color:#9fb6d1">Mechanical Engineer · App Developer · R&amp;D Enthusiast</span>
+    <div style="display:flex;justify-content:center;margin:18px 0;">
+      <div style="max-width:760px;width:100%;border-radius:10px;overflow:hidden;box-shadow:0 8px 30px rgba(2,6,23,0.08);display:flex;align-items:stretch;background:#ffffff;">
+        <div style="flex:0 0 240px;min-height:160px;">
+          <img src="https://avatars.dicebear.com/api/initials/Md%20Fahad%20Hossen.svg" alt="Md Fahad Hossen" style="width:100%;height:100%;object-fit:cover;display:block;"/>
+        </div>
+        <div style="padding:18px;flex:1;background:#ffffff;color:#0b1b2a;">
+          <h3 style="margin:0 0 6px;">Md Fahad Hossen</h3>
+          <div style="color:#60788f;font-size:14px;margin-bottom:10px;">Mechanical Engineer · App Developer · R&amp;D Enthusiast</div>
+          <p style="margin:6px 0;font-size:14px;line-height:1.3;">🔬 <strong>R&amp;D Intern</strong> @ 北京则藏海科技 — health &amp; sports product design, hardware programming</p>
+          <p style="margin:6px 0;font-size:14px;">🤖 Interests: Robotics · Renewable Energy · CAD/CAE · Industrial Safety · Product Design</p>
+          <p style="margin:6px 0;font-size:14px;">🏆 <strong>20+ awards</strong> in technical skills &amp; academics across Bangladesh and China</p>
+          <p style="margin:6px 0;font-size:14px;">🌐 Bengali · English · Hindi · Urdu · Chinese (basic)</p>
+          <div style="margin-top:12px;">
+            <a href="mailto:fahad_hossen_cn@outlook.com" style="display:inline-block;padding:8px 12px;background:#00b4d8;color:white;border-radius:6px;text-decoration:none;margin-right:8px;">Email</a>
+            <a href="https://github.com/fahadcn" style="display:inline-block;padding:8px 12px;background:#0d3b66;color:white;border-radius:6px;text-decoration:none;">GitHub</a>
           </div>
         </div>
-        <ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:1fr 1fr;gap:8px;">
-          <li>🔬 <strong>R&amp;D Intern</strong> @ 北京则藏海科技 — health &amp; sports product design, hardware programming</li>
-          <li>🤖 Interests: Robotics · Renewable Energy · CAD/CAE · Industrial Safety · Product Design</li>
-          <li>🏆 <strong>20+ awards</strong> in technical skills &amp; academics across Bangladesh and China</li>
-          <li>🌐 Bengali · English · Hindi · Urdu · Chinese (basic)</li>
-        </ul>
       </div>
     </div>
 
