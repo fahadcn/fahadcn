@@ -24,13 +24,10 @@
 <br/>
 
 <p align="center">
-  <a href="#about-me"><img src="https://img.shields.io/badge/🙋_About_Me-0d4f7c?style=for-the-badge"/></a>
-  &nbsp;
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/🛠️_Tech_Stack-005f8a?style=for-the-badge"/></a>
-  &nbsp;
-  <a href="#experience"><img src="https://img.shields.io/badge/💼_Experience-006e9f?style=for-the-badge"/></a>
-  &nbsp;
-  <a href="#stats"><img src="https://img.shields.io/badge/📊_GitHub_Stats-007eb5?style=for-the-badge"/></a>
+  <a href="#about-me"><img src="https://img.shields.io/badge/↓%20About%20Me-0d4f7c?style=for-the-badge&logoColor=white"/></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/↓%20Tech%20Stack-005f8a?style=for-the-badge&logoColor=white"/></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/↓%20Experience-006e9f?style=for-the-badge&logoColor=white"/></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/↓%20GitHub%20Stats-007eb5?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -106,7 +103,7 @@
 
 | Period | Role | Company |
 |---|---|---|
-| Sep 2024 – Present | 🔬 Mechanical Engineering Intern – R&D | 北京则藏海科技, Beijing |
+| Sep 2024 – Jun 2025 | 🔬 Mechanical Engineering Intern – R&D | 北京则藏海科技, Beijing |
 | Mar 2024 – May 2024 | 🏠 Junior Interior Design Assistant | 东易日盛装饰, Beijing |
 | Jan 2020 – Feb 2022 | 📱 Project Lead & Client Relations | Spider IT Bangladesh |
 
