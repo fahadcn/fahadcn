@@ -46,13 +46,23 @@
     <td><strong>Diploma in Engineering</strong><br/>Shyamoli Ideal Polytechnic Institute, Chittagong</td>
   </tr>
 </table>
-
-<br/>
-
-- 🔬 **R&D Intern** @ 北京则藏海科技 — health & sports product design, hardware programming
-- 🤖 Interests: Robotics · Renewable Energy · CAD/CAE · Industrial Safety · Product Design
-- 🏆 **20+ awards** in technical skills & academics across Bangladesh and China
-- 🌐 Bengali · English · Hindi · Urdu · Chinese (basic)
+    <div style="display:flex;justify-content:center;margin:16px 0;">
+      <div style="background:linear-gradient(180deg,#071029 0%,#0d1117 100%);color:#c9d1d9;border-radius:12px;padding:18px;max-width:720px;box-shadow:0 8px 30px rgba(2,6,23,0.6);">
+        <div style="display:flex;align-items:center;gap:12px;margin-bottom:8px;">
+          <img src="profile.png" width="56" style="border-radius:10px;border:2px solid #00b4d8;" alt="avatar" />
+          <div>
+            <strong style="font-size:1.1rem">Md Fahad Hossen</strong><br />
+            <span style="font-size:0.9rem;color:#9fb6d1">Mechanical Engineer · App Developer · R&amp;D Enthusiast</span>
+          </div>
+        </div>
+        <ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:1fr 1fr;gap:8px;">
+          <li>🔬 <strong>R&amp;D Intern</strong> @ 北京则藏海科技 — health &amp; sports product design, hardware programming</li>
+          <li>🤖 Interests: Robotics · Renewable Energy · CAD/CAE · Industrial Safety · Product Design</li>
+          <li>🏆 <strong>20+ awards</strong> in technical skills &amp; academics across Bangladesh and China</li>
+          <li>🌐 Bengali · English · Hindi · Urdu · Chinese (basic)</li>
+        </ul>
+      </div>
+    </div>
 
 ---
 
