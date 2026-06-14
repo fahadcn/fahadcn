@@ -8,10 +8,14 @@
 <p align="center"><strong>Mechanical Engineer</strong> · App Developer · R&D Enthusiast</p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00B4D8&center=true&vCenter=true&width=680&lines=Designing+Mechanical+Systems...;Building+Flutter+Apps...;Crafting+Safe+Products...;Exploring+Robotics+R&D..." alt="Typing SVG"/>
+</p>
+
+<p align="center">
   <a href="#about"><img src="https://img.shields.io/badge/About-0d4f7c?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/Projects-005f8a?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#skills"><img src="https://img.shields.io/badge/Skills-006e9f?style=for-the-badge&logo=azuredevops&logoColor=white"/></a>
-  <a href="#experience"><img src="https://img.shields.io/badge/Experience-007eb5?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Skills-005f8a?style=for-the-badge&logo=azuredevops&logoColor=white"/></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/Experience-006e9f?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/Stats-007eb5?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="#contact"><img src="https://img.shields.io/badge/Contact-00a2ff?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 </p>
 
