@@ -13,6 +13,8 @@
   <a href="https://github.com/fahadcn"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   &nbsp;
   <a href="https://www.facebook.com/Skilledfahad"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.researchgate.net/profile/Md-Hossen-244"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white"/></a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=fahadcn&color=00b4d8&style=flat-square&label=Profile+Views"/>
 </p>
